@@ -1,0 +1,13 @@
+.dropdown-content {
+    display: block;
+    position: absolute;
+
+}
+
+.dropbtn {
+    color: aqua;
+}
+
+.dropbtn:hover {
+    color: red;
+}
